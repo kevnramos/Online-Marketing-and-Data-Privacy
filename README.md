@@ -1,6 +1,6 @@
 # IS 117 - Intro to Website Development (Spring 2021)
 
-## How the Internet Works
+## Online Marketing and Data Privacy
 
 ### Team Members:
 - Kevin Ramos
