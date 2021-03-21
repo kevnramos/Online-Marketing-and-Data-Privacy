@@ -6,5 +6,5 @@
 - Kevin Ramos
 - Kevin Huang
 
-[Website hosted on github]()
+[Website hosted on github](https://kevnramos.github.io/Online-Marketing-and-Data-Privacy/)
 
