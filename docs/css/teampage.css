@@ -1,0 +1,13 @@
+h1{
+    font-family: Garamond;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    position: relative;
+}
+
+div.col-6{
+    position: relative;
+    color: white;
+}
